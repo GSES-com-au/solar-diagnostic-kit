@@ -1,0 +1,21 @@
+# Specific Folders
+ml-exploration/
+obsolete/
+other_checks/
+
+performance analysis/plots/
+performance analysis/input_data/2_Testing_Performance_analysis/
+performance analysis/input_data/action_log/
+performance analysis/input_data/obsolete/
+performance analysis/input_data/sites_stored_locally/
+
+labelling level 1/input_data_obsolete/
+labelling level 1/level1_all/
+labelling level 1/level1_monitors/
+labelling level 1/level1_sites/
+labelling level 1/obsolete_codebase/
+labelling level 1/obsolete_results/
+labelling level 1/recurrent_faults_plots/
+labelling level 1/individual_outputs/
+labelling level 1/3_validation/plots/
+labelling level 1/Level 1 Faults e237b28d1d2c4a54a568fda161ee6213/
